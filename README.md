@@ -1,33 +1,30 @@
-# Hey, I'm AliAkbar Akbari 👋
+# Hi, I'm AliAkbar Akbari 👋
 
-**Full-Stack Developer | Frontend & Backend Development**
+**Full-Stack Developer · Frontend & Backend**
 
-I enjoy building web applications, from responsive user interfaces to backend services and APIs. I like exploring how different parts of an application fit together and turning ideas into working projects.
+I build web applications and developer tools, working from user interfaces through to application logic and backend services. I like making useful products, experimenting with new ideas, and understanding how systems fit together.
 
-- 💻 Focused on frontend and backend web development
-- 🧩 Interested in application architecture, UI development, and APIs
-- 🌱 Exploring AI-powered applications and learning more about deployment and networking fundamentals
-- 🔗 [Explore my repositories](https://github.com/MasterAkbariDev?tab=repositories)
+My main focus is **frontend and backend development**. I'm also exploring AI-assisted workflows and learning more about deployment and networking fundamentals.
 
-## Selected projects
+## Featured projects
 
-| Project | What to explore |
+| Project | What it does |
 | --- | --- |
-| [Dashboard](https://github.com/MasterAkbariDev/Dashboard) | React dashboard project |
-| [nextjs-chat](https://github.com/MasterAkbariDev/nextjs-chat) | Next.js chat application project |
-| [React_Shopper](https://github.com/MasterAkbariDev/React_Shopper) | React shopping application project |
-| [nextjs-blog](https://github.com/MasterAkbariDev/nextjs-blog) | Next.js blog project |
+| 🎨 **[Visual Builder](https://github.com/MasterAkbariDev/visual-builder)** | Visual website and application builder focused on generating usable source code. |
+| ⌨️ **[ChatterLab](https://github.com/MasterAkbariDev/keyboard-chatter-tester)** | Next.js keyboard chatter tester that helps identify unwanted double key presses. **[Try the demo](https://keyboard-chatter-tester.vercel.app/)** |
+| 🤖 **[Assentor](https://github.com/MasterAkbariDev/Assentor)** | Local CLI for coordinating AI coding agents, reviews, and task workflows. |
+| 🖥️ **[NOC](https://github.com/MasterAkbariDev/noc)** | Monitoring and incident-investigation project combining server observability and AI-assisted analysis. |
+| 🧰 **[appfork](https://github.com/MasterAkbariDev/appfork)** | Utility for creating isolated application profiles on macOS and Linux. |
+| 📊 **[Dashboard](https://github.com/MasterAkbariDev/Dashboard)** | React dashboard UI project. |
 
-## What I'm interested in
+## What I work on
 
-**Frontend:** Building accessible, responsive, and intuitive interfaces.
+- **Frontend:** Web interfaces, interactive applications, and user experience
+- **Backend:** Application logic, APIs, and service integrations
+- **Tools & experiments:** Developer utilities and AI-assisted applications
 
-**Backend:** Designing APIs, application logic, and data-driven features.
+## More
 
-**Beyond the stack:** Learning more about AI integrations, deployment workflows, and networking fundamentals.
+Explore my [public repositories](https://github.com/MasterAkbariDev?tab=repositories).
 
-## Connect
-
-- [GitHub](https://github.com/MasterAkbariDev)
-
-> I value practical learning, clear code, and building projects that solve real problems.
+I'm always learning, refining my projects, and looking for better ways to build software.
