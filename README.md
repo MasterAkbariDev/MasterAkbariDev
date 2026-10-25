@@ -1,4 +1,4 @@
-# Hey, I'm MasterAkbariDev 👋
+# Hey, I'm AliAkbar Akbari 👋
 
 **Full-Stack Developer | Frontend & Backend Development**
 
